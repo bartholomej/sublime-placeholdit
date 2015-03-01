@@ -11,13 +11,13 @@ Sublime Text Snippet for http://placehold.it support. Just write `ph` and press 
 
 ### Package Control (recommended)
 
-1. Press `ctrl` + `shift` + `P`
+1. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Write `install`
 3. Search for **Placehold.it snippet**
 
 ## Usage
 
 1. Write `ph`
-2. Hit `tab`
+2. Hit <kbd>Tab</kbd>
 
-*U can use it only in scope `html`*
+*You can use it only in scope `html`*
